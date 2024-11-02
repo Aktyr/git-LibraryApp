@@ -1,0 +1,7 @@
+C:\Users\voilo\source\repos\Библиотека\Библиотека\bin\Debug\Библиотека.exe.config
+C:\Users\voilo\source\repos\Библиотека\Библиотека\bin\Debug\Библиотека.exe
+C:\Users\voilo\source\repos\Библиотека\Библиотека\bin\Debug\Библиотека.pdb
+C:\Users\voilo\source\repos\Библиотека\Библиотека\obj\Debug\Библиотека.csproj.AssemblyReference.cache
+C:\Users\voilo\source\repos\Библиотека\Библиотека\obj\Debug\Библиотека.csproj.CoreCompileInputs.cache
+C:\Users\voilo\source\repos\Библиотека\Библиотека\obj\Debug\Библиотека.exe
+C:\Users\voilo\source\repos\Библиотека\Библиотека\obj\Debug\Библиотека.pdb
