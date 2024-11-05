@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\voilo\\source\\repos\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16070187-BCAC-410B-A033-7DFC52CC84C2}|\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430.csproj|c:\\users\\voilo\\source\\repos\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16070187-BCAC-410B-A033-7DFC52CC84C2}|\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430.csproj|solutionrelative:\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16070187-BCAC-410B-A033-7DFC52CC84C2}|\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430.csproj|c:\\users\\voilo\\source\\repos\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16070187-BCAC-410B-A033-7DFC52CC84C2}|\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430.csproj|solutionrelative:\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16070187-BCAC-410B-A033-7DFC52CC84C2}|\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430.csproj|C:\\Users\\voilo\\source\\repos\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16070187-BCAC-410B-A033-7DFC52CC84C2}|\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430.csproj|solutionrelative:\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16070187-BCAC-410B-A033-7DFC52CC84C2}|\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430.csproj|C:\\Users\\voilo\\source\\repos\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16070187-BCAC-410B-A033-7DFC52CC84C2}|\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430.csproj|solutionrelative:\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16070187-BCAC-410B-A033-7DFC52CC84C2}|\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430.csproj|C:\\Users\\voilo\\source\\repos\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16070187-BCAC-410B-A033-7DFC52CC84C2}|\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430.csproj|solutionrelative:\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16070187-BCAC-410B-A033-7DFC52CC84C2}|\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430.csproj|c:\\users\\voilo\\source\\repos\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16070187-BCAC-410B-A033-7DFC52CC84C2}|\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430.csproj|solutionrelative:\u0431\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,37 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\voilo\\source\\repos\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\Program.cs",
-              "RelativeDocumentMoniker": "\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\Program.cs",
-              "ToolTip": "C:\\Users\\voilo\\source\\repos\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\Program.cs",
-              "RelativeToolTip": "\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T17:41:51.125Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataBase.cs",
-              "DocumentMoniker": "C:\\Users\\voilo\\source\\repos\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\DataBase.cs",
-              "RelativeDocumentMoniker": "\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\DataBase.cs",
-              "ToolTip": "C:\\Users\\voilo\\source\\repos\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\DataBase.cs",
-              "RelativeToolTip": "\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\DataBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T20:50:45.353Z"
             },
             {
               "$type": "Document",
@@ -66,21 +36,36 @@
               "RelativeDocumentMoniker": "\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\Library.cs",
               "ToolTip": "C:\\Users\\voilo\\source\\repos\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\Library.cs",
               "RelativeToolTip": "\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\Library.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T08:49:32.8Z"
+              "WhenOpened": "2024-10-31T08:49:32.8Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\voilo\\source\\repos\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\Books.cs",
+              "RelativeDocumentMoniker": "\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\Books.cs",
+              "ToolTip": "C:\\Users\\voilo\\source\\repos\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\Books.cs",
+              "RelativeToolTip": "\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:35:14.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\voilo\\source\\repos\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\Users.cs",
               "RelativeDocumentMoniker": "\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\Users.cs",
               "ToolTip": "C:\\Users\\voilo\\source\\repos\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\Users.cs",
               "RelativeToolTip": "\u0411\u0438\u0431\u043B\u0438\u043E\u0442\u0435\u043A\u0430\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T20:06:08.841Z"
+              "WhenOpened": "2024-10-31T20:06:08.841Z",
+              "EditorCaption": ""
             }
           ]
         }

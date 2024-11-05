@@ -10,11 +10,16 @@ namespace Библиотека
 {
     public class Library
     {
-        public List<Book> books;     
+        public List<Book> books;
+        public List<Users> users;
+        public List<IssuedBook> issuedBooks;
+        public List<Debtor> debtors;
 
         public Library() 
         {
             books = new List<Book>();
+            issuedBooks = new List<IssuedBook>();
+            debtors = new List<Debtor>();
         }
 
         public void ShowListBooks()
@@ -52,46 +57,13 @@ namespace Библиотека
                 Console.WriteLine($"Книга не найдена:\n{bookName}\n");
             }
         }
-    }
-
-    public class Book
-    {
-        public string bookName;
-        public string autor;
-        public int year;
-        public int bookCount;
-
-        public Book(string BookName, string Autor, int Year, int BookCount)
+        public void GiveBook(User user, Book book)//доделать
         {
-            bookName = BookName;
-            autor = Autor;
-            year = Year;
-            bookCount = BookCount;
+            user.issuedBook.Add(book);        
+            //
+            books.Remove(book);
         }
-
-        public override string ToString()
-        {
-            return $"Название: {bookName}\n" +
-                $"Автор: {autor}\n" +
-                $"Год: {year}\n" +
-                $"Копий на складе: {bookCount}";
-        }
-
+      
     }
 
-    public class IssuedBook //доделать
-    {
-        public int id;
-        public Book book;
-        public User user;
-        public DateTime ussueDate;
-        public DateTime returnDeadline;
-    }
-    public class Debtor //доделать
-    {
-        public int id;
-        public User User;
-        public Book book;
-        public TimeSpan Overdue; // Разница между текущей датой и сроком возврата
-    }
 }

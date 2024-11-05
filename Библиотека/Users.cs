@@ -25,7 +25,6 @@ namespace Библиотека
             var user = new User(lastName, firstName, middleName, contactInfo, password);
             users.Add(user);
         }
-    
     }
     public class User
     {
@@ -39,8 +38,7 @@ namespace Библиотека
 
         public int userId;
         public bool subscriptionStatus;
-        public Book issuedBook;
-
+        public List<Book> issuedBook;        
 
         //доделать
         public User(string LastName, string FirstName, string MiddleName, string ContactInfo, string Password)
